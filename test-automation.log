@@ -1,0 +1,1061 @@
+2025-05-05 12:07:39.657 [main] INFO  com.examples.test.StockInfoTest - Setting up WebDriver and browser.
+2025-05-05 12:07:42.021 [main] INFO  com.examples.test.StockInfoTest - Browser launched and maximized.
+2025-05-05 12:07:42.058 [main] INFO  com.examples.test.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 12:07:43.874 [main] INFO  com.examples.test.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 12:07:43.942 [main] INFO  com.examples.test.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 12:07:43.989 [main] INFO  com.examples.test.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 12:07:44.391 [main] INFO  com.examples.test.StockInfoTest - Browser closed.
+2025-05-05 12:25:14.514 [main] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser.
+2025-05-05 12:25:16.908 [main] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 12:25:16.945 [main] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 12:25:19.145 [main] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 12:25:19.236 [main] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 12:25:19.260 [main] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 12:25:19.570 [main] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-05 12:44:15.533 [main] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser.
+2025-05-05 12:44:18.743 [main] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 12:45:33.035 [main] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser.
+2025-05-05 12:45:35.488 [main] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 12:48:13.023 [main] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser.
+2025-05-05 12:48:15.569 [main] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 12:51:47.299 [main] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser.
+2025-05-05 12:51:49.747 [main] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 12:51:49.814 [main] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 12:51:51.449 [main] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 12:51:51.512 [main] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 12:51:51.554 [main] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 12:51:51.897 [main] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-05 12:53:28.477 [main] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser.
+2025-05-05 12:53:30.980 [main] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 12:53:31.031 [main] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 12:53:32.708 [main] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 12:53:32.756 [main] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 12:53:32.793 [main] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 12:53:33.234 [main] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-05 12:56:37.275 [main] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser.
+2025-05-05 12:56:39.749 [main] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 12:56:39.828 [main] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 12:56:41.880 [main] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 12:56:41.927 [main] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 12:56:41.967 [main] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 12:56:42.219 [main] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-05 12:59:49.244 [main] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser.
+2025-05-05 12:59:51.682 [main] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 12:59:51.756 [main] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 12:59:53.430 [main] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 12:59:53.495 [main] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 12:59:53.540 [main] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 12:59:53.823 [main] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-05 13:08:58.353 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-05 13:08:58.353 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-05 13:09:01.925 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 13:09:10.109 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 13:09:10.134 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 13:09:11.595 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 13:09:13.860 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 13:09:13.889 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 13:09:15.896 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-05 13:12:59.780 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-05 13:12:59.780 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-05 13:13:03.488 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 13:13:03.570 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 13:13:03.619 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 13:13:03.623 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 13:13:06.722 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 13:13:06.846 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 13:13:07.010 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 13:13:07.061 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 13:13:07.322 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 13:13:07.334 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 13:13:07.704 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-05 13:13:08.811 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-05 13:17:48.408 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-05 13:17:48.408 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-05 13:17:52.057 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 13:17:52.140 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 13:17:52.190 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 13:17:52.194 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 13:17:54.882 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 13:17:54.942 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 13:17:55.033 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 13:17:55.440 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 13:17:55.511 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 13:17:55.518 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 13:17:55.987 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-05 13:17:57.161 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-05 13:22:43.549 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-05 13:22:43.549 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-05 13:22:47.093 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 13:22:47.197 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 13:22:47.198 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 13:22:47.205 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 13:22:50.391 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 13:22:50.676 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 13:22:50.730 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 13:22:51.158 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 13:22:51.195 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 13:22:51.204 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 13:22:51.660 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-05 13:22:52.955 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-05 13:25:07.593 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-05 13:25:07.593 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-05 13:25:11.097 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 13:25:11.125 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 13:25:11.163 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 13:25:11.163 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 13:25:14.076 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 13:25:14.731 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 13:25:14.791 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 13:25:14.881 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 13:25:15.147 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 13:25:15.156 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 13:25:15.660 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-05 13:25:16.814 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-05 13:25:41.204 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-05 13:25:41.204 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-05 13:25:45.280 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 13:25:45.359 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 13:25:45.409 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 13:25:45.412 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 13:25:48.210 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 13:25:49.000 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 13:25:49.055 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 13:25:49.394 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 13:25:49.509 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 13:25:49.523 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 13:25:50.023 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-05 13:25:51.130 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-05 13:27:43.109 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-05 13:27:43.109 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-05 13:27:46.702 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 13:27:46.718 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 13:27:46.757 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 13:27:46.757 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 13:27:47.211 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 13:27:50.386 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 13:27:50.439 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 13:27:51.033 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 13:27:51.131 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 13:27:51.144 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 13:27:51.675 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-05 13:27:53.035 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-05 13:28:38.032 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-05 13:28:38.032 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-05 13:28:41.470 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 13:28:41.482 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 13:28:41.567 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 13:28:41.567 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 13:28:44.728 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 13:28:44.913 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 13:28:45.293 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 13:28:45.358 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 13:28:45.610 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 13:28:45.624 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 13:28:46.160 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-05 13:28:47.322 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-05 13:29:40.695 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-05 13:29:40.691 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-05 13:29:44.790 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 13:29:44.797 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 13:29:44.848 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 13:29:44.848 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 13:29:47.724 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 13:29:48.037 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 13:29:48.513 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 13:29:48.562 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 13:29:48.948 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 13:29:48.959 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 13:29:49.313 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-05 13:29:50.332 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-05 13:34:11.422 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-05 13:34:11.423 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-05 13:34:15.084 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 13:34:15.113 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 13:34:15.149 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 13:34:15.149 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 13:34:15.606 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 13:34:18.107 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 13:34:18.164 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 13:34:18.539 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 13:34:18.790 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 13:34:18.793 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 13:34:19.077 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-05 13:34:19.451 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-05 13:34:55.997 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-05 13:34:55.997 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-05 13:34:59.394 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 13:34:59.465 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 13:34:59.476 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 13:34:59.476 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 13:35:03.091 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 13:35:03.353 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 13:35:03.401 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 13:35:04.765 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-05 13:35:06.920 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 13:35:06.944 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 13:35:06.949 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 13:35:07.149 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-05 13:39:47.602 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-05 13:39:47.602 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-05 13:39:51.125 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 13:39:51.142 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 13:39:51.179 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 13:39:51.179 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 13:39:54.329 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 13:39:54.619 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 13:39:54.760 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 13:39:54.796 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 13:39:55.556 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 13:39:55.565 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 13:39:56.013 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-05 13:39:56.272 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-05 13:42:06.344 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-05 13:42:06.344 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-05 13:42:09.894 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 13:42:09.912 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 13:42:09.947 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 13:42:09.947 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 13:42:13.765 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 13:42:13.839 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 13:42:13.858 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 13:42:13.872 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 13:42:13.923 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 13:42:13.936 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 13:42:14.443 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-05 13:42:14.575 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-05 13:42:47.699 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-05 13:42:47.699 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-05 13:42:51.254 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 13:42:51.341 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 13:42:51.343 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-05 13:42:51.350 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-05 13:42:54.509 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 13:42:54.565 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 13:42:54.612 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 13:42:54.942 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-05 13:42:55.069 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-05 13:42:55.095 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-05 13:42:55.383 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-05 13:42:57.064 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-10 09:51:56.973 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 09:51:56.973 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 09:52:05.252 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 09:52:05.319 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 09:52:09.034 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-10 09:52:09.100 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 09:52:09.133 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-10 09:52:09.465 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-10 09:52:11.124 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 09:52:11.130 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 09:52:16.238 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-10 09:52:18.039 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 09:52:18.045 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-10 09:52:19.423 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-10 09:53:04.942 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 09:53:04.942 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 09:53:07.740 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 09:53:07.806 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 09:53:09.156 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 09:53:09.164 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 09:53:12.079 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-10 09:53:12.272 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd
+2025-05-10 09:53:12.413 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 09:53:12.474 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-10 09:53:12.608 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 09:53:12.618 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-10 09:53:13.155 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-10 09:53:14.340 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-10 10:32:04.990 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 10:32:04.995 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 10:32:15.240 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 10:32:15.467 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"css selector","selector":"#header\-search\-input"}
+  (Session info: MicrosoftEdge=136.0.3240.50)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [8b2457e9869ec0fcc3cd64415103e1d3, findElement {value=header-search-input, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.50, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:62630}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\Admin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62630/devtoo..., se:cdpVersion: 136.0.3240.50, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8b2457e9869ec0fcc3cd64415103e1d3
+2025-05-10 10:32:15.936 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 10:32:17.992 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 10:32:18.082 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"css selector","selector":"#header\-search\-input"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [390dfbb3d3c1ac071246f9e2af52e575, findElement {value=header-search-input, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62642}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62642/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 390dfbb3d3c1ac071246f9e2af52e575
+2025-05-10 10:32:18.104 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 10:32:22.280 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 10:32:22.316 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 10:32:22.317 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 10:32:22.327 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-10 10:32:24.359 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 10:32:24.431 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 10:32:24.431 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on edge
+2025-05-10 10:32:24.433 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-10 10:32:24.865 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-10 10:32:25.621 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-10 10:36:40.246 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 10:36:40.246 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 10:36:44.343 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 10:36:44.469 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 10:36:44.510 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"css selector","selector":"#header\-search\-input"}
+  (Session info: MicrosoftEdge=136.0.3240.50)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [23b25406296432e0e7d93fe874f68ba6, findElement {value=header-search-input, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.50, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:62891}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\Admin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62891/devtoo..., se:cdpVersion: 136.0.3240.50, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 23b25406296432e0e7d93fe874f68ba6
+2025-05-10 10:36:44.557 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 10:36:44.593 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"css selector","selector":"#header\-search\-input"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6dda35c4cfe8e3ba52bd6a6c2a8b467d, findElement {value=header-search-input, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62893}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62893/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6dda35c4cfe8e3ba52bd6a6c2a8b467d
+2025-05-10 10:36:44.629 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 10:36:56.189 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 10:36:56.633 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 10:36:56.640 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 10:36:56.640 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 10:36:56.643 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-10 10:36:56.849 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 10:36:56.849 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on edge
+2025-05-10 10:36:56.852 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-10 10:36:57.627 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-10 10:36:58.578 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-10 10:37:37.724 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 10:37:37.724 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 10:37:41.286 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 10:37:41.340 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 10:37:41.418 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"css selector","selector":"#header\-search\-input"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e1331371a5ca900b46479926923cfff3, findElement {value=header-search-input, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62986}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62986/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e1331371a5ca900b46479926923cfff3
+2025-05-10 10:37:41.461 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 10:37:41.488 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"css selector","selector":"#header\-search\-input"}
+  (Session info: MicrosoftEdge=136.0.3240.50)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [b10e673d2cc4479152bb83bf1dc4dd97, findElement {value=header-search-input, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.50, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:62984}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\Admin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62984/devtoo..., se:cdpVersion: 136.0.3240.50, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b10e673d2cc4479152bb83bf1dc4dd97
+2025-05-10 10:37:41.499 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 10:37:42.029 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 10:37:44.435 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 10:37:44.436 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on edge
+2025-05-10 10:37:44.439 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-10 10:37:45.360 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 10:37:45.460 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 10:37:45.460 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 10:37:45.462 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-10 10:37:46.166 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-10 10:37:46.182 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-10 10:49:44.273 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 10:49:44.272 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 10:49:51.496 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 10:49:51.497 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 10:49:51.583 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder ='Search by Company name, Symbol or keyword... ']"}
+  (Session info: MicrosoftEdge=136.0.3240.50)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [3e7206f714e749e360eb1a5099ed4b2b, findElement {value=//input[@placeholder ='Search by Company name, Symbol or keyword... '], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.50, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:63497}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\Admin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63497/devtoo..., se:cdpVersion: 136.0.3240.50, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3e7206f714e749e360eb1a5099ed4b2b
+2025-05-10 10:49:51.583 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder ='Search by Company name, Symbol or keyword... ']"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f7d705e1255f9fbac88c72cc877ded59, findElement {value=//input[@placeholder ='Search by Company name, Symbol or keyword... '], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63498}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63498/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f7d705e1255f9fbac88c72cc877ded59
+2025-05-10 10:49:51.627 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 10:49:51.628 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 10:49:55.153 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 10:49:55.309 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 10:49:55.309 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 10:49:55.313 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-10 10:49:55.844 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 10:49:55.933 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 10:49:55.934 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on edge
+2025-05-10 10:49:55.936 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-10 10:49:57.193 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-10 10:49:58.336 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-10 10:56:35.263 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 10:56:35.261 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 10:56:44.505 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 10:56:44.848 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class ='input-group get-quote-search']"}
+  (Session info: MicrosoftEdge=136.0.3240.50)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [7fb67f2aa7ce57f288c04de16270b7b4, findElement {using=xpath, value=//div[@class ='input-group get-quote-search']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.50, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:63730}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\Admin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63730/devtoo..., se:cdpVersion: 136.0.3240.50, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7fb67f2aa7ce57f288c04de16270b7b4
+2025-05-10 10:56:44.898 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 10:56:44.931 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 10:56:45.001 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class ='input-group get-quote-search']"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [665848483858dafc433fc8a0d26c05d6, findElement {using=xpath, value=//div[@class ='input-group get-quote-search']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63738}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63738/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 665848483858dafc433fc8a0d26c05d6
+2025-05-10 10:56:45.015 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 10:56:45.635 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 10:56:45.764 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 10:56:48.486 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 10:56:48.487 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on edge
+2025-05-10 10:56:48.493 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-10 10:56:48.584 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 10:56:48.584 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 10:56:48.596 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Tearing down WebDriver and browser.
+2025-05-10 10:56:49.661 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-10 10:56:50.719 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser closed.
+2025-05-10 10:58:21.767 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 10:58:21.761 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 10:58:28.713 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 10:58:28.801 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class ='input-group get-quote-search']"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [39dc0039337c7a67686c4a3ae29a05f9, findElement {value=//div[@class ='input-group get-quote-search'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63827}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63827/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 39dc0039337c7a67686c4a3ae29a05f9
+2025-05-10 10:58:28.834 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 10:58:30.144 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 10:58:30.180 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class ='input-group get-quote-search']"}
+  (Session info: MicrosoftEdge=136.0.3240.50)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [3cd402044c18a0182ba9194a7498e4ba, findElement {value=//div[@class ='input-group get-quote-search'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.50, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:63844}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\Admin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63844/devtoo..., se:cdpVersion: 136.0.3240.50, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3cd402044c18a0182ba9194a7498e4ba
+2025-05-10 10:58:30.198 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 10:58:39.400 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 10:58:39.563 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 10:58:39.564 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 10:58:42.681 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 10:58:42.809 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 10:58:42.810 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on edge
+2025-05-10 11:01:41.891 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 11:01:41.902 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 11:01:48.641 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:01:50.613 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class ='input-group get-quote-search']//input[@role = 'combobox']"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7825af0761d715836b62243281d07067, findElement {value=//div[@class ='input-group get-quote-search']//input[@role = 'combobox'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65522}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65522/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7825af0761d715836b62243281d07067
+2025-05-10 11:01:50.744 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:01:50.851 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:01:50.974 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class ='input-group get-quote-search']//input[@role = 'combobox']"}
+  (Session info: MicrosoftEdge=136.0.3240.50)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [7f9fcbcc1e35b4c6048f6bb5606e7f57, findElement {value=//div[@class ='input-group get-quote-search']//input[@role = 'combobox'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.50, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:49153}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\Admin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49153/devtoo..., se:cdpVersion: 136.0.3240.50, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7f9fcbcc1e35b4c6048f6bb5606e7f57
+2025-05-10 11:01:50.990 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:01:56.586 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:01:56.632 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:01:56.632 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 11:01:57.970 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:01:58.690 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:01:58.691 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on edge
+2025-05-10 11:03:19.373 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 11:03:19.373 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 11:03:25.657 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:03:25.796 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class ='input-group get-quote-search']//input[@role = 'combobox']"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [11ab3ff7b0627c786951c295689a5902, findElement {using=xpath, value=//div[@class ='input-group get-quote-search']//input[@role = 'combobox']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49328}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49328/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 11ab3ff7b0627c786951c295689a5902
+2025-05-10 11:03:25.858 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:03:31.348 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:03:31.625 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class ='input-group get-quote-search']//input[@role = 'combobox']"}
+  (Session info: MicrosoftEdge=136.0.3240.50)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [c7778098b954251004e72cc596923605, findElement {using=xpath, value=//div[@class ='input-group get-quote-search']//input[@role = 'combobox']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.50, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:49344}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\Admin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49344/devtoo..., se:cdpVersion: 136.0.3240.50, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c7778098b954251004e72cc596923605
+2025-05-10 11:03:31.645 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:03:32.860 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:03:33.997 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:03:33.997 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 11:03:37.923 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:03:39.523 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:03:39.564 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on edge
+2025-05-10 11:05:30.978 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 11:05:30.979 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 11:05:37.939 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:05:38.924 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:05:43.043 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class ='input-group get-quote-search']//input[@role = 'combobox']"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a01fd2988a41ebba1e3cdccece362622, findElement {value=//div[@class ='input-group get-quote-search']//input[@role = 'combobox'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49540}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49540/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a01fd2988a41ebba1e3cdccece362622
+2025-05-10 11:05:43.079 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:05:43.955 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class ='input-group get-quote-search']//input[@role = 'combobox']"}
+  (Session info: MicrosoftEdge=136.0.3240.50)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [7e0c6839c6abc735b91211c751731135, findElement {value=//div[@class ='input-group get-quote-search']//input[@role = 'combobox'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.50, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:49553}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\Admin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49553/devtoo..., se:cdpVersion: 136.0.3240.50, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7e0c6839c6abc735b91211c751731135
+2025-05-10 11:05:43.967 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:05:47.153 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:05:47.329 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:05:47.332 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 11:05:48.265 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:05:48.646 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:05:48.647 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on edge
+2025-05-10 11:08:57.835 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 11:08:57.817 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 11:09:02.688 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:09:05.009 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:09:07.798 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='Search by Company name, Symbol or keyword...']"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bb176495ed8d5bd43cda8c74198e595e, findElement {using=xpath, value=//input[@placeholder='Search by Company name, Symbol or keyword...']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49863}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49863/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bb176495ed8d5bd43cda8c74198e595e
+2025-05-10 11:09:07.845 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:09:10.462 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='Search by Company name, Symbol or keyword...']"}
+  (Session info: MicrosoftEdge=136.0.3240.50)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [c68c320bc749aec887dd7d3cae56d9e7, findElement {using=xpath, value=//input[@placeholder='Search by Company name, Symbol or keyword...']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.50, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:49878}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\Admin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49878/devtoo..., se:cdpVersion: 136.0.3240.50, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c68c320bc749aec887dd7d3cae56d9e7
+2025-05-10 11:09:10.489 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:09:12.190 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:09:13.915 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:09:13.915 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 11:09:14.467 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:09:14.585 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:09:14.586 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on edge
+2025-05-10 11:11:07.358 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 11:11:07.358 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 11:11:10.962 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:11:12.642 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:11:16.076 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder]"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cc39875113b1f1cec99bd2d40cbca62f, findElement {value=//input[@placeholder], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50044}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50044/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cc39875113b1f1cec99bd2d40cbca62f
+2025-05-10 11:11:16.113 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:11:17.732 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder]"}
+  (Session info: MicrosoftEdge=136.0.3240.50)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [668b120f474e8c9f4dcb2ccb24934e8e, findElement {value=//input[@placeholder], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.50, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50059}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\Admin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50059/devtoo..., se:cdpVersion: 136.0.3240.50, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 668b120f474e8c9f4dcb2ccb24934e8e
+2025-05-10 11:11:17.747 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:11:19.609 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:11:20.439 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:11:20.440 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 11:11:20.874 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:11:20.942 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:11:20.942 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on edge
+2025-05-10 11:14:36.917 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 11:14:36.918 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 11:14:42.468 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:14:45.969 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:14:52.765 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: Expected condition failed: waiting for presence of element located by: By.xpath: //input[@placeholder] (tried for 10 second(s) with 500 milliseconds interval)
+2025-05-10 11:14:52.815 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:14:55.938 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:14:56.051 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: Expected condition failed: waiting for presence of element located by: By.xpath: //input[@placeholder] (tried for 10 second(s) with 500 milliseconds interval)
+2025-05-10 11:14:56.066 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:14:56.461 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:14:56.462 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 11:15:01.829 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:15:03.748 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:15:03.749 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on edge
+2025-05-10 11:16:09.252 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 11:16:09.252 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 11:16:12.744 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:16:13.983 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:17:03.095 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: Expected condition failed: waiting for presence of element located by: By.xpath: //input[@placeholder] (tried for 50 second(s) with 500 milliseconds interval)
+2025-05-10 11:17:03.129 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:17:04.298 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: Expected condition failed: waiting for presence of element located by: By.xpath: //input[@placeholder] (tried for 50 second(s) with 500 milliseconds interval)
+2025-05-10 11:17:04.314 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:17:07.268 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:17:07.322 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:17:07.322 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on edge
+2025-05-10 11:17:07.569 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:17:07.598 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:17:07.599 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 11:18:25.829 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 11:18:29.295 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:19:45.193 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 11:19:47.816 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:21:27.987 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: Expected condition failed: waiting for presence of element located by: By.xpath: //input[@placeholder] (tried for 100 second(s) with 500 milliseconds interval)
+2025-05-10 11:21:28.020 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:21:33.420 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:21:33.434 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:21:33.435 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 11:24:33.217 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 11:24:33.217 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 11:24:39.709 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:24:39.777 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:26:20.213 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: Expected condition failed: waiting for presence of element located by: By.xpath: //input[@placeholder] (tried for 100 second(s) with 500 milliseconds interval)
+2025-05-10 11:26:20.213 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: Expected condition failed: waiting for presence of element located by: By.xpath: //input[@placeholder] (tried for 100 second(s) with 500 milliseconds interval)
+2025-05-10 11:26:20.240 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:26:20.240 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:26:24.927 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:26:24.942 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:26:24.943 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on edge
+2025-05-10 11:26:24.986 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:26:25.003 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:26:25.003 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 11:32:10.627 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 11:32:10.629 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 11:32:13.628 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:32:15.064 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:33:54.013 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: Expected condition failed: waiting for presence of element located by: By.xpath: //input[@placeholder] (tried for 100 second(s) with 500 milliseconds interval)
+2025-05-10 11:33:54.045 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:33:55.202 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: Expected condition failed: waiting for presence of element located by: By.xpath: //input[@placeholder] (tried for 100 second(s) with 500 milliseconds interval)
+2025-05-10 11:33:55.215 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:33:56.161 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:33:56.249 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:33:56.250 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 11:33:57.408 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:33:59.314 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:33:59.314 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on edge
+2025-05-10 11:35:15.195 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 11:35:15.195 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 11:35:19.098 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:35:19.212 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:35:22.739 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:35:23.601 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:35:23.615 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:35:23.733 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:35:23.737 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 11:35:24.652 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id ='header-search-input_listbox']//p//span[2][text()='TATAMOTORS']"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0d18900d0b8119ee5deb3bc19dcfbede, findElement {value=//div[@id ='header-search-input_listbox']//p//span[2][text()='TATAMOTORS'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53472}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53472/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0d18900d0b8119ee5deb3bc19dcfbede
+2025-05-10 11:35:26.441 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:35:27.028 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:35:27.029 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on edge
+2025-05-10 11:35:28.275 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id ='header-search-input_listbox']//p//span[2][text()='TATAMOTORS']"}
+  (Session info: MicrosoftEdge=136.0.3240.64)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [3e0be9d5a8e28286de508556781eb778, findElement {value=//div[@id ='header-search-input_listbox']//p//span[2][text()='TATAMOTORS'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53497}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\Admin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53497/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3e0be9d5a8e28286de508556781eb778
+2025-05-10 11:36:37.913 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 11:36:37.913 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 11:36:40.382 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:36:40.445 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:36:42.914 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:36:42.921 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:36:44.023 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:36:45.236 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:36:45.240 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 11:36:45.681 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:36:45.750 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:36:45.750 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on edge
+2025-05-10 11:36:45.994 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id ='header-search-input_listbox']//p//span[2][text()='TATAMOTORS']"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5f20607dc83e5f36a72b4c5a6c9b0caf, findElement {value=//div[@id ='header-search-input_listbox']//p//span[2][text()='TATAMOTORS'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53549}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53549/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5f20607dc83e5f36a72b4c5a6c9b0caf
+2025-05-10 11:36:47.197 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id ='header-search-input_listbox']//p//span[2][text()='TATAMOTORS']"}
+  (Session info: MicrosoftEdge=136.0.3240.64)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [e3ec9454f755283afca28d8be69667b9, findElement {value=//div[@id ='header-search-input_listbox']//p//span[2][text()='TATAMOTORS'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53567}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\Admin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53567/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e3ec9454f755283afca28d8be69667b9
+2025-05-10 11:41:02.854 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 11:41:02.854 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 11:41:07.557 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:41:07.630 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:41:07.717 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:41:07.723 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:41:47.668 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 11:41:47.668 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 11:41:50.004 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:41:50.067 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:41:52.781 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:41:52.792 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:41:53.303 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:41:53.383 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:41:53.388 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 11:41:55.021 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id ='header-search-input_listbox']//p//span[2][text()='TATAMOTORS']"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [37f8a0a51a262395b25e45688e8114a7, findElement {value=//div[@id ='header-search-input_listbox']//p//span[2][text()='TATAMOTORS'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49764}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49764/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 37f8a0a51a262395b25e45688e8114a7
+2025-05-10 11:41:55.446 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:41:55.570 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:41:55.570 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on edge
+2025-05-10 11:41:57.083 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id ='header-search-input_listbox']//p//span[2][text()='TATAMOTORS']"}
+  (Session info: MicrosoftEdge=136.0.3240.64)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [50cfc67ca8b9462cf613e3c039b7fa3f, findElement {value=//div[@id ='header-search-input_listbox']//p//span[2][text()='TATAMOTORS'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:49785}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\Admin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49785/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 50cfc67ca8b9462cf613e3c039b7fa3f
+2025-05-10 11:43:52.846 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 11:43:52.846 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 11:43:55.223 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:43:55.277 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:43:58.159 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:43:58.167 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:43:58.549 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:43:58.636 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:43:58.641 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 11:44:00.378 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"xpath","selector":"//p//span[2][text()='TATAMOTORS']"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [69ed565570783f13d2b5449865128046, findElement {value=//p//span[2][text()='TATAMOTORS'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49919}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49919/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 69ed565570783f13d2b5449865128046
+2025-05-10 11:44:01.064 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:44:01.213 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:44:01.216 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on edge
+2025-05-10 11:44:02.317 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"xpath","selector":"//p//span[2][text()='TATAMOTORS']"}
+  (Session info: MicrosoftEdge=136.0.3240.64)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [5159065c3aeba02f824a364804feb271, findElement {value=//p//span[2][text()='TATAMOTORS'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:49941}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\Admin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49941/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5159065c3aeba02f824a364804feb271
+2025-05-10 11:45:26.392 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 11:45:26.392 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 11:45:29.040 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:45:29.095 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:45:31.922 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:45:31.927 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:45:32.699 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:45:32.801 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:45:32.807 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 11:45:34.523 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:45:34.564 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:45:34.565 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on edge
+2025-05-10 11:45:37.480 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 Week High: -
+2025-05-10 11:45:37.480 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 Week Low: -
+2025-05-10 11:45:39.337 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - 52 Week High: 1,179.00
+2025-05-10 11:45:39.338 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - 52 Week Low: 535.75
+2025-05-10 11:50:51.309 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 11:50:51.309 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 11:50:53.839 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:50:53.893 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:50:56.979 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:50:56.985 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:50:57.231 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:50:57.301 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:50:57.307 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 11:50:58.757 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"xpath","selector":"searchLocator"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [879f3a62ebe3f3e1560fa5bcc42702ad, findElement {using=xpath, value=searchLocator}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50106}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50106/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 879f3a62ebe3f3e1560fa5bcc42702ad
+2025-05-10 11:50:59.698 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:50:59.786 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:50:59.786 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on edge
+2025-05-10 11:51:00.535 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"xpath","selector":"searchLocator"}
+  (Session info: MicrosoftEdge=136.0.3240.64)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [3fb0f2434fe09543ae31ba2fe0c41c00, findElement {using=xpath, value=searchLocator}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50130}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\Admin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50130/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3fb0f2434fe09543ae31ba2fe0c41c00
+2025-05-10 11:53:47.177 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 11:53:47.177 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 11:53:49.655 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:53:49.705 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:53:52.050 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:53:52.057 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:53:52.676 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:53:53.015 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:53:53.020 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 11:53:54.688 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:53:54.795 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:53:54.796 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on edge
+2025-05-10 11:53:55.501 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='week52highVal']"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b261a2eccff5b75764890308899fc6a2, findElement {value=//*[@id='week52highVal'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53157}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53157/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b261a2eccff5b75764890308899fc6a2
+2025-05-10 11:53:57.445 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='week52highVal']"}
+  (Session info: MicrosoftEdge=136.0.3240.64)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [bd49687633648192813b3b454c6f0809, findElement {value=//*[@id='week52highVal'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53173}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\Admin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53173/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bd49687633648192813b3b454c6f0809
+2025-05-10 11:58:58.083 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 11:58:58.083 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 11:59:01.422 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:59:01.460 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:59:02.346 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:59:04.280 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 11:59:04.286 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 11:59:04.896 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:59:04.906 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 11:59:06.919 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:59:06.963 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 11:59:06.963 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on edge
+2025-05-10 11:59:09.584 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 Week High: 1,179.00
+2025-05-10 11:59:09.584 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 Week Low: 535.75
+2025-05-10 11:59:12.570 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - 52 Week High: 1,179.00
+2025-05-10 11:59:12.571 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - 52 Week Low: 535.75
+2025-05-10 13:00:34.972 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 13:00:34.972 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 13:00:42.037 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 13:00:42.137 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 13:00:42.489 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 13:00:42.498 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 13:00:46.246 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 13:00:46.266 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 13:00:46.273 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on edge
+2025-05-10 13:00:46.427 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 13:00:46.527 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 13:00:46.528 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 13:00:50.970 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - 52 Week High: 1,179.00
+2025-05-10 13:00:50.971 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - 52 Week Low: 535.75
+2025-05-10 13:00:51.935 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 Week High: 1,179.00
+2025-05-10 13:00:51.935 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 Week Low: 535.75
+2025-05-10 13:01:50.557 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 13:01:50.557 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 13:01:53.653 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 13:01:53.716 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 13:01:56.884 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 13:01:57.818 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 13:01:57.823 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 13:01:57.950 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 13:01:57.955 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 13:02:00.523 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 13:02:00.917 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 13:02:00.918 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on edge
+2025-05-10 13:02:02.890 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 Week High: -
+2025-05-10 13:02:02.891 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 Week Low: -
+2025-05-10 13:02:05.686 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - 52 Week High: 1,179.00
+2025-05-10 13:02:05.686 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - 52 Week Low: 535.75
+2025-05-10 13:02:51.246 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 13:02:51.246 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 13:02:53.729 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 13:02:53.779 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 13:02:56.306 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 13:02:56.311 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 13:02:56.901 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 13:02:57.145 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 13:02:57.252 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 13:02:57.256 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 13:02:59.625 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 13:02:59.626 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on edge
+2025-05-10 13:03:03.967 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 Week High: -
+2025-05-10 13:03:03.967 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 Week Low: -
+2025-05-10 13:03:04.102 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - 52 Week High: -
+2025-05-10 13:03:04.102 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - 52 Week Low: -
+2025-05-10 13:05:26.777 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 13:05:29.165 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 13:05:29.223 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 13:05:31.410 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 13:05:31.472 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 13:05:31.477 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 13:05:34.947 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 Week High: -
+2025-05-10 13:05:34.947 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 Week Low: -
+2025-05-10 13:08:28.502 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 13:08:30.918 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 13:08:30.982 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 13:08:33.173 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 13:08:33.246 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 13:08:33.250 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 13:08:36.744 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 Week High: 1,179.00
+2025-05-10 13:08:36.744 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 Week Low: 535.75
+2025-05-10 13:09:08.946 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 13:09:11.501 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 13:09:11.564 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 13:09:13.315 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 13:09:13.376 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 13:09:13.381 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 13:09:16.936 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 Week High: -
+2025-05-10 13:09:16.936 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 Week Low: -
+2025-05-10 13:14:17.609 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 13:14:20.243 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 13:14:20.314 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 13:14:21.498 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 13:14:23.245 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 13:14:23.248 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 13:14:25.021 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='week52highVal']"}
+  (Session info: chrome=136.0.7103.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ce6fedc958302804fe3764d5d4ead1f8, findElement {value=//*[@id='week52highVal'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61731}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61731/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ce6fedc958302804fe3764d5d4ead1f8
+2025-05-10 13:15:26.534 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 13:15:29.409 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 13:15:29.478 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 13:15:29.867 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 13:15:31.494 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 13:15:31.500 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 13:15:35.447 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 Week High: 1,179.00
+2025-05-10 13:15:35.447 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 Week Low: 535.75
+2025-05-10 13:16:57.874 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 13:16:57.874 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 13:17:01.011 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 13:17:01.076 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 13:17:04.137 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 13:17:04.177 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 13:17:04.187 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 13:17:04.551 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 13:17:04.557 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 13:17:07.171 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 13:17:07.211 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 13:17:07.211 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on edge
+2025-05-10 13:17:11.372 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 Week High: 1,179.00
+2025-05-10 13:17:11.373 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 Week Low: 535.75
+2025-05-10 13:17:12.876 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - 52 Week High: 1,179.00
+2025-05-10 13:17:12.876 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - 52 Week Low: 535.75
+2025-05-10 13:20:54.815 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 13:20:54.815 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 13:20:57.317 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 13:20:57.371 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 13:20:58.806 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 13:20:58.813 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 13:21:03.317 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+2025-05-10 13:21:03.705 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+2025-05-10 13:23:20.168 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 13:23:20.168 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 13:23:22.565 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 13:23:22.620 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 13:23:25.311 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 13:23:25.317 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 13:23:26.202 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 13:23:26.277 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 13:23:26.282 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on chrome
+2025-05-10 13:23:26.288 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+2025-05-10 13:23:28.134 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Expected title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 13:23:28.370 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Actual title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+2025-05-10 13:23:28.370 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Title verification completed successfully on edge
+2025-05-10 13:23:28.371 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+2025-05-10 13:24:45.133 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 13:24:45.133 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 13:24:47.594 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 13:24:47.675 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 13:24:50.458 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 13:24:50.463 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 13:24:50.844 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+2025-05-10 13:24:53.596 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Error retrieving stock info: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "driver" is null
+2025-05-10 13:26:20.352 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 13:26:20.352 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 13:26:23.137 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 13:26:23.196 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 13:26:25.531 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 13:26:25.540 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 13:26:32.010 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 Week High: 1,179.00
+2025-05-10 13:26:32.010 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 Week Low: 535.75
+2025-05-10 13:26:33.402 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - 52 Week High: 1,179.00
+2025-05-10 13:26:33.402 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - 52 Week Low: 535.75
+2025-05-10 14:12:40.663 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+2025-05-10 14:12:40.663 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+2025-05-10 14:12:44.003 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 14:12:44.059 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 14:12:47.819 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+2025-05-10 14:12:47.824 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Navigating to: https://www.nseindia.com/
+2025-05-10 14:12:56.320 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 Week High: 1,179.00
+2025-05-10 14:12:56.320 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 Week Low: 535.75
+2025-05-10 14:13:00.596 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - 52 Week High: 1,179.00
+2025-05-10 14:13:00.597 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - 52 Week Low: 535.75
